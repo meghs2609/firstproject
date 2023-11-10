@@ -2,7 +2,7 @@
 <html>
 <head>this is my first html page</head>
 <body>
-<stong><h1>hi iam rasmitha</h1></strong>
+<stong><h1>hi iam puneeth 123</h1></strong>
 <ul>
   <li>meghana/li>
   <li>reddy</li>
